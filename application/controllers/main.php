@@ -20,11 +20,16 @@ class Main extends CI_Controller {
     public function index()
     {
         $data = array(
-            'title' => 'GROCERY STORE',
+            'title' => 'Grocery Store',
             'keywords' => 'Grocery Store Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design',
-            'description' => 'Grocery Store a Ecommerce Online Shopping Category Flat Bootstrap Responsive Website Template'
+            'description' => 'Grocery Store a Ecommerce Online Shopping Category Flat Bootstrap Responsive Website Template',
+            'view' => 'mainpage/MainpageView',
+            'additionalViews' => array("mainpage/MainpageBottomBanner",
+                                        "mainpage/TopBrands",
+                                        "mainpage/FreshVegetables")
         );
-        $this->load->view('index', $data);
+
+        $this->load->view('MainTemplate', $data);
     }
 }
 
