@@ -20,9 +20,9 @@
         <div class="col-md-3 w3_footer_grid">
             <h3>Інформація</h3>
             <ul class="w3_footer_grid_list">
-                <li><a href="events.html">Події</a></li>
-                <li><a href="about.html">Про нас</a></li>
-                <li><a href="products.html">Наякращі пропозиції</a></li>
+                <li><a href="events">Події</a></li>
+                <li><a href="about">Про нас</a></li>
+                <li><a href="products">Наякращі пропозиції</a></li>
                 <li><a href="services.html">Сервіси</a></li>
                 <!--li><a href="short-codes.html">Short Codes</a></li-->
             </ul>
@@ -41,7 +41,7 @@
                 <li><a href="pet.html">Корм для тварин</a></li>
                 <li><a href="frozen.html">Заморожені продукти</a></li>
                 <li><a href="kitchen.html">Кухня</a></li>
-                <li><a href="products.html">Брендові товари</a></li>
+                <li><a href="products">Брендові товари</a></li>
                 <li><a href="household.html">Товари для дому</a></li>
             </ul>
         </div>

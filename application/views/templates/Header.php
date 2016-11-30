@@ -30,7 +30,7 @@
 <!-- header -->
 <div class="agileits_header">
     <div class="w3l_offers">
-        <a href="products.html">Спеціальні пропозиції !</a>
+        <a href="products">Спеціальні пропозиції !</a>
     </div>
     <div class="w3l_search">
         <form action="#" method="post">
@@ -86,13 +86,13 @@
 <div class="logo_products">
     <div class="container">
         <div class="w3ls_logo_products_left">
-            <h1><a href="index.html"><span>Grocery</span> Store</a></h1>
+            <h1><a href="/"><span>Grocery</span> Store</a></h1>
         </div>
         <div class="w3ls_logo_products_left1">
             <ul class="special_items">
-                <li><a href="events.html">Події</a><i>/</i></li>
-                <li><a href="about.html">Про нас</a><i>/</i></li>
-                <li><a href="products.html">Спеціальні пропозиції</a><i>/</i></li>
+                <li><a href="events">Події</a><i>/</i></li>
+                <li><a href="about">Про нас</a><i>/</i></li>
+                <li><a href="products">Спеціальні пропозиції</a><i>/</i></li>
                 <li><a href="services.html">Сервіси</a></li>
             </ul>
         </div>

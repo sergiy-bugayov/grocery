@@ -40,6 +40,8 @@
 
 //$route['default_controller'] = "welcome";
 $route['default_controller'] = "main";
+$route['events'] = "main/events";
+$route['about'] = "main/about";
 $route['404_override'] = '';
 
 
